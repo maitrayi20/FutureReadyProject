@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="title">
-        <span>Student Result Management System<br>TASK_3</br></span>
+        <span>Student Result Management System</span>
     </div>
 
     <div class="main">
